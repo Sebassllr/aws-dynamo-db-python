@@ -1,9 +1,5 @@
 import boto3
 
-'''
-- Copy from one table to another 
-
-'''
 client = boto3.client('dynamodb')
 
 src_table = input("Enter source table: ")
