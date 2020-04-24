@@ -6,4 +6,5 @@ The script will look for the default aws credentials in the */.aws/credentials* 
 ### Params
 
 -**source table**: Name of the source table in dynamo DB
+
 -**destination table**: Name of the destination table in dynamo DB
